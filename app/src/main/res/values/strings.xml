@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExEtanol</string>
+    <string name="s_valorEtanol">Preço do Etanol</string>
+    <string name="s_valorGasolina">Preço da Gasolina</string>
+    <string name="s_calcular">Calcular</string>
+    <string name="s_mensagem_etanol">É mais vantajoso usar Etanol</string>
+    <string name="s_mensagem_gasolina">É mais vantajoso usar Gasolina</string>
+</resources>
